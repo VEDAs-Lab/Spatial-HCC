@@ -1,0 +1,7 @@
+# Large data files (too big for GitHub)
+*.h5ad
+*.pkl
+
+# macOS system files
+.DS_Store
+**/.DS_Store

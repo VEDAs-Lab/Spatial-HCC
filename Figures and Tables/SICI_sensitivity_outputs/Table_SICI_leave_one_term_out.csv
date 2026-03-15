@@ -1,0 +1,5 @@
+variant,diff_R_minus_NR
+"SICI_full (1,1,1)",0.0821
+SICI_no_Bcyto,0.0678
+SICI_no_ExhCyto,0.0525
+SICI_no_MaligCAF,0.0439

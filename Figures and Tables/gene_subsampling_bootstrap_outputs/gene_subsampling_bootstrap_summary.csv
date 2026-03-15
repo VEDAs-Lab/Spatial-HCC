@@ -1,0 +1,4 @@
+program_key,program_label,n_iter,keep_frac,fraction_positive_diff,median_diff
+caf,CAF,300,0.7,0.0,-0.07941090834584322
+cytotoxic,cytotoxic,300,0.7,0.0,-0.08178522780949149
+exhaustion,exhaustion,300,0.7,0.0,-0.07411320234918464

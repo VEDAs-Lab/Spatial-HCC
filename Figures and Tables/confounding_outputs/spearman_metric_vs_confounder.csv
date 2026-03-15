@@ -1,0 +1,10 @@
+metric,confounder,spearman_rho
+SICI,n_spots,-0.39285714285714296
+SICI,tumor_frac,0.3335621924974956
+SICI,n_components,0.7142857142857144
+C_exh_cyto,n_spots,0.5714285714285715
+C_exh_cyto,tumor_frac,0.14824986333222026
+C_exh_cyto,n_components,-0.21428571428571433
+C_malig_caf,n_spots,0.5714285714285715
+C_malig_caf,tumor_frac,-0.22237479499833038
+C_malig_caf,n_components,-0.39285714285714296
