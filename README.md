@@ -1,6 +1,6 @@
 # Spatial HCC — Spatial Immune Coupling Index (SICI)
 
-Analysis code and output figures for the Spatial HCC project, which characterises immune-tumour spatial coupling in hepatocellular carcinoma (HCC) using Visium spatial transcriptomics and scRNA-seq deconvolution.
+Analysis code and output figure(s) for the Spatial HCC project, which characterises immune-tumour spatial coupling in hepatocellular carcinoma (HCC) using Visium spatial transcriptomics and scRNA-seq deconvolution.
 
 ---
 
